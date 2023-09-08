@@ -48,7 +48,8 @@ int bSearch(int* a, int n, int x) {
 ![image](https://github.com/ljh01307/review-cPlusPlus/assets/112680236/445dea70-ecd7-49e9-946f-f840202e6153)
 
 -----------------
-upper_bound()// 返回最后一个 <=x 的元素的下一个地址值或者 a (所有元素都大于 x)
+upper_bound()// 返回最后一个 <=x 的元素的下一个地址值或者 a (所有元素都大于 x)               
+
 lower_bound()// 返回第一个 >=x 的元素的地址值，或者a+n (所有元素都小于x )  **if(lower_bounder!=a+n)证明已经查找到了**
 ![image](https://github.com/ljh01307/review-cPlusPlus/assets/112680236/62f95f02-296c-490f-a1c7-db6d4f91cfed)
 
